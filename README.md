@@ -9,6 +9,13 @@ Student assignment to learn git commands
 ```sh
 git записать команду клонирования
 ```
+Выбрана ссылка для нового проекта: `https://github.com/teacher-fiit/GitCheatSheet.git`
+
+Выполнена команда клонирования:
+
+```bash
+$ git clone https://github.com/teacher-fiit/GitCheatSheet.git
+Cloning into 'GitCheatSheet'
 **Задание 2**. Перейдите в созданную (клон6ированную) папку.
 
 **Задание 3**. Заполните второй столбец таблицы html-файла: после записи каждой ячейки индексируйте измененные файлы и выполняйте коммит.

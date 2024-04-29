@@ -1,4 +1,4 @@
-# GitCheatSheet
+﻿# GitCheatSheet
 Student assignment to learn git commands
 
 ### Задание для студентов
@@ -9,19 +9,12 @@ Student assignment to learn git commands
 ```sh
 git записать команду клонирования
 ```
-Выбрана ссылка для нового проекта: `https://github.com/teacher-fiit/GitCheatSheet.git`
-
-Выполнена команда клонирования:
-
-```bash
-$ git clone https://github.com/teacher-fiit/GitCheatSheet.git
-Cloning into 'GitCheatSheet'
 **Задание 2**. Перейдите в созданную (клон6ированную) папку.
 
 **Задание 3**. Заполните второй столбец таблицы html-файла: после записи каждой ячейки индексируйте измененные файлы и выполняйте коммит.
 ```sh
-git записать команду первого добавления
-git записать команду первого коммита
+git add .
+git commit -m "Заполнил второй столбец таблицы"
 ```
 **Задание 4**. Дополните файл style.css. Индексируйте измененные файлы и выполните коммит.
 ```sh
